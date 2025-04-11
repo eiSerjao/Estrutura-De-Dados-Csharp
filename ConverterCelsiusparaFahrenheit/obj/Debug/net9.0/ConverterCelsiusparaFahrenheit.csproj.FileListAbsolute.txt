@@ -1,0 +1,15 @@
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.AssemblyInfoInputs.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.AssemblyInfo.cs
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.sourcelink.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\bin\Debug\net9.0\ConverterCelsiusparaFahrenheit.exe
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\bin\Debug\net9.0\ConverterCelsiusparaFahrenheit.deps.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\bin\Debug\net9.0\ConverterCelsiusparaFahrenheit.runtimeconfig.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\bin\Debug\net9.0\ConverterCelsiusparaFahrenheit.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\bin\Debug\net9.0\ConverterCelsiusparaFahrenheit.pdb
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\refint\ConverterCelsiusparaFahrenheit.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.pdb
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ConverterCelsiusparaFahrenheit.genruntimeconfig.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\ConverterCelsiusparaFahrenheit\obj\Debug\net9.0\ref\ConverterCelsiusparaFahrenheit.dll
