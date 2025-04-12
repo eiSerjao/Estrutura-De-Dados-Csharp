@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj": {}
+    "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\01 - Conceitos Fundamentais\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj": {
+    "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\01 - Conceitos Fundamentais\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj",
+        "projectUniqueName": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\01 - Conceitos Fundamentais\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj",
         "projectName": "ConverterCelsiusparaFahrenheit",
-        "projectPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj",
+        "projectPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\01 - Conceitos Fundamentais\\ConverterCelsiusparaFahrenheit\\ConverterCelsiusparaFahrenheit.csproj",
         "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\ConverterCelsiusparaFahrenheit\\obj\\",
+        "outputPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\01 - Conceitos Fundamentais\\ConverterCelsiusparaFahrenheit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

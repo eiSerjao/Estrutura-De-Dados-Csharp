@@ -18,7 +18,7 @@ double t1;
 double t2;
 
 //Entrada de dados
-Console.WriteLine("Digite a temperatura em Celsius: ");
+Console.Write("Digite a temperatura em Celsius: ");
 string valorEscolhido = Console.ReadLine()!;
 
 //Validação de entrada
