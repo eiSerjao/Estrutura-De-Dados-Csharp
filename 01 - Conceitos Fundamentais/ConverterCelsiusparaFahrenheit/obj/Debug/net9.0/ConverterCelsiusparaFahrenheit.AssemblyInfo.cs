@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConverterCelsiusparaFahrenheit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+200cc4f4d4b56c23310062e2d084c99585e2eea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3700c787278cbcb1d2db6d35f9a0b339b2afafbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConverterCelsiusparaFahrenheit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConverterCelsiusparaFahrenheit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
