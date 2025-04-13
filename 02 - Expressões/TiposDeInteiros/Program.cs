@@ -31,6 +31,9 @@ nint tipoNint = 10;
 // Esse é tipo nuint e ele tem valor de 64bits na memória e aramazena valores inteiros de 0 a 18.446.744.073.709.551.615
 nuint tipoNuint = 10;
 
+Console.WriteLine("=========================================");
+Console.WriteLine("Valores dos tipos inteiros:");
+Console.WriteLine("=========================================");
 // Exibindo os valores na tela
 Console.WriteLine($"Valor do tipo sbyte: {tipoSbyte}");
 Console.WriteLine($"Valor do tipo byte: {tipoByte}");
@@ -42,3 +45,31 @@ Console.WriteLine($"Valor do tipo long: {tipoLong}");
 Console.WriteLine($"Valor do tipo ulong: {tipoUlong}");
 Console.WriteLine($"Valor do tipo nint: {tipoNint}");
 Console.WriteLine($"Valor do tipo nuint: {tipoNuint}");
+
+Console.WriteLine("=========================================");
+Console.WriteLine("Valores do tipo real:");
+Console.WriteLine("=========================================");
+
+// Também existem os tipos basicos para representação de numeros reais
+// float, double e decimal, mas esses não são considerados inteiros.
+
+float tipoFloat = 10.5f; // 32bits - 7 casas decimais
+// O que é esse f?
+
+// O sufixo f indica que o número é do tipo float. Sem o sufixo, o número é considerado um double por padrão.
+
+double tipoDouble = 10.5; // 64bits - 15 casas decimais
+
+// Tipo não necessitam de sufixo, mas é uma boa prática usar o sufixo d para indicar que o número é do tipo double.
+
+// O tipo double é mais preciso que o tipo float, mas ocupa mais espaço na memória.
+
+decimal tipoDecimal = 10.5m; // 128bits - 28 casas decimais
+
+// O sufixo m indica que o número é do tipo decimal. Sem o sufixo, o número é considerado um double por padrão.
+
+// O tipo decimal é mais preciso que o tipo double, mas ocupa mais espaço na memória.
+
+Console.WriteLine($"Valor do tipo float: {tipoFloat}");
+Console.WriteLine($"Valor do tipo double: {tipoDouble}");   
+Console.WriteLine($"Valor do tipo decimal: {tipoDecimal}");

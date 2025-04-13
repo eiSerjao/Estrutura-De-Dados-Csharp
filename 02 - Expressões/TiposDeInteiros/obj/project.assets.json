@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\02 - Expressões\\TiposDeInteiros\\TiposDeInteiros.csproj",
-      "projectName": "TiposDeInteiros",
-      "projectPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\02 - Expressões\\TiposDeInteiros\\TiposDeInteiros.csproj",
+      "projectUniqueName": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\02 - Expressões\\TiposDeInteiros\\TiposDeInteirosEDecimais.csproj",
+      "projectName": "TiposDeInteirosEDecimais",
+      "projectPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\02 - Expressões\\TiposDeInteiros\\TiposDeInteirosEDecimais.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
       "outputPath": "C:\\Work\\Workspace\\Estrutura-De-Dados-Csharp\\02 - Expressões\\TiposDeInteiros\\obj\\",
       "projectStyle": "PackageReference",
