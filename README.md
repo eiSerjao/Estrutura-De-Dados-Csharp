@@ -17,6 +17,7 @@ Embora o livro use **C**, todas as implementações aqui são feitas em **C#**.
 Os códigos estão organizados por capítulos, seguindo a ordem do livro:
 
 - **01 - Conceitos Fundamentais**
+- **02 - Expressões**
 
 *(Conforme for avançando, mais capítulos serão adicionados.)*
 
