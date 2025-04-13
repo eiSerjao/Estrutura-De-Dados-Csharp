@@ -1,5 +1,7 @@
-﻿
-// Tipos de Inteiros
+﻿// Introdução a Estrutura de Dados
+// Tipos Basicos - Pagina 12
+
+// Tipos de Inteiros e Reais
 
 // Esse é tipo sbyte e ele tem valor de 8bits na memória e aramazena valores inteiros de -128 a 127
 sbyte tipoSbyte = 10;
