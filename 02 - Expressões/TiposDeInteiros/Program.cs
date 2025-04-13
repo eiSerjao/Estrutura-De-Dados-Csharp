@@ -53,18 +53,19 @@ Console.WriteLine("=========================================");
 // Também existem os tipos basicos para representação de numeros reais
 // float, double e decimal, mas esses não são considerados inteiros.
 
-float tipoFloat = 10.5f; // 32bits - 7 casas decimais
+float tipoFloat = 10.5f; // 32bits - 7 casas decimais valores reais de -3.40282347E+38 a 3.40282347E+38
+
 // O que é esse f?
 
 // O sufixo f indica que o número é do tipo float. Sem o sufixo, o número é considerado um double por padrão.
 
-double tipoDouble = 10.5; // 64bits - 15 casas decimais
+double tipoDouble = 10.5; // 64bits - 15 casas decimais valores reais de -1.79769313486232E308 a 1.79769313486232E308
 
 // Tipo não necessitam de sufixo, mas é uma boa prática usar o sufixo d para indicar que o número é do tipo double.
 
 // O tipo double é mais preciso que o tipo float, mas ocupa mais espaço na memória.
 
-decimal tipoDecimal = 10.5m; // 128bits - 28 casas decimais
+decimal tipoDecimal = 10.5m; // 128bits - 28 casas decimais valores reais de -79.2288799999999999999999999999 a 79.2288799999999999999999999999
 
 // O sufixo m indica que o número é do tipo decimal. Sem o sufixo, o número é considerado um double por padrão.
 
