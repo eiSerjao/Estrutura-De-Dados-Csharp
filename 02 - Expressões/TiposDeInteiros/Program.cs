@@ -2,7 +2,7 @@
 // Tipos de Inteiros
 
 // Esse é tipo sbyte e ele tem valor de 8bits na memória e aramazena valores inteiros de -128 a 127
-sbyte tipoSbyte = 
+sbyte tipoSbyte = 10;
 
 // Esse é tipo byte e ele tem valor de 8bits na memória e aramazena valores inteiros de 0 a 255
 byte tipoByte = 10;
@@ -30,3 +30,15 @@ nint tipoNint = 10;
 
 // Esse é tipo nuint e ele tem valor de 64bits na memória e aramazena valores inteiros de 0 a 18.446.744.073.709.551.615
 nuint tipoNuint = 10;
+
+// Exibindo os valores na tela
+Console.WriteLine($"Valor do tipo sbyte: {tipoSbyte}");
+Console.WriteLine($"Valor do tipo byte: {tipoByte}");
+Console.WriteLine($"Valor do tipo short: {tipoShort}");
+Console.WriteLine($"Valor do tipo ushort: {tipoUshort}");
+Console.WriteLine($"Valor do tipo int: {tipoInt}");
+Console.WriteLine($"Valor do tipo uint: {tipoUint}");
+Console.WriteLine($"Valor do tipo long: {tipoLong}");
+Console.WriteLine($"Valor do tipo ulong: {tipoUlong}");
+Console.WriteLine($"Valor do tipo nint: {tipoNint}");
+Console.WriteLine($"Valor do tipo nuint: {tipoNuint}");

@@ -1,0 +1,15 @@
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.AssemblyInfoInputs.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.AssemblyInfo.cs
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.sourcelink.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\bin\Debug\net9.0\TiposDeInteiros.exe
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\bin\Debug\net9.0\TiposDeInteiros.deps.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\bin\Debug\net9.0\TiposDeInteiros.runtimeconfig.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\bin\Debug\net9.0\TiposDeInteiros.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\bin\Debug\net9.0\TiposDeInteiros.pdb
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\refint\TiposDeInteiros.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.pdb
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteiros.genruntimeconfig.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\ref\TiposDeInteiros.dll
