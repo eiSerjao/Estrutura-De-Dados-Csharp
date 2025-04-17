@@ -7,11 +7,13 @@ Dictionary<string, List<double>> alunos = new Dictionary<string, List<double>>()
     { "Pedro", new List<double> { 9.5, 10.0, 9.0 } }
 };
 
+
 foreach (var aluno in alunos)
 {
-    string nome = aluno.key;
-    List<double> notas = aluno.value;
+    string nome = aluno.Key;
+    List<double> notas = aluno.Value;
     double media = notas.Average();
-    
-
+    Console.WriteLine($"A média de {nome} é {media:F2}");
 }
+
+

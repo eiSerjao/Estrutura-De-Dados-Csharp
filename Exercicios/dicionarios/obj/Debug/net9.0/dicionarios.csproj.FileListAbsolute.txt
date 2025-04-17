@@ -1,0 +1,15 @@
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.AssemblyInfoInputs.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.AssemblyInfo.cs
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.sourcelink.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\bin\Debug\net9.0\dicionarios.exe
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\bin\Debug\net9.0\dicionarios.deps.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\bin\Debug\net9.0\dicionarios.runtimeconfig.json
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\bin\Debug\net9.0\dicionarios.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\bin\Debug\net9.0\dicionarios.pdb
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\refint\dicionarios.dll
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.pdb
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\dicionarios.genruntimeconfig.cache
+C:\Work\Workspace\Estrutura-De-Dados-Csharp\Exercicios\dicionarios\obj\Debug\net9.0\ref\dicionarios.dll
