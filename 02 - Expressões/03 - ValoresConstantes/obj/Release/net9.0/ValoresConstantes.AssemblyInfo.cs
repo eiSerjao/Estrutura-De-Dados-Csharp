@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TiposDeInteirosEDecimais")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ValoresConstantes")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815d83dd1591a7908d39dc4c05ed9e0ce76193ca")]
-[assembly: System.Reflection.AssemblyProductAttribute("TiposDeInteirosEDecimais")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TiposDeInteirosEDecimais")]
+[assembly: System.Reflection.AssemblyProductAttribute("ValoresConstantes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ValoresConstantes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
