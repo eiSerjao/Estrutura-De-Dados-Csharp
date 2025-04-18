@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Work\\Workspace\\Repositório\\Exercicios\\01-Exercicio\\exercicio\\exercicio.csproj",
+      "projectUniqueName": "C:\\Work\\Workspace\\Repositório\\Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\exercicio.csproj",
       "projectName": "exercicio",
-      "projectPath": "c:\\Work\\Workspace\\Repositório\\Exercicios\\01-Exercicio\\exercicio\\exercicio.csproj",
+      "projectPath": "C:\\Work\\Workspace\\Repositório\\Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\exercicio.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "c:\\Work\\Workspace\\Repositório\\Exercicios\\01-Exercicio\\exercicio\\obj\\",
+      "outputPath": "C:\\Work\\Workspace\\Repositório\\Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
