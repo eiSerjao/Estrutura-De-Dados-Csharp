@@ -1,0 +1,15 @@
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\bin\Debug\net9.0\exercicio.exe
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\bin\Debug\net9.0\exercicio.deps.json
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\bin\Debug\net9.0\exercicio.runtimeconfig.json
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\bin\Debug\net9.0\exercicio.dll
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\bin\Debug\net9.0\exercicio.pdb
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.AssemblyInfoInputs.cache
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.AssemblyInfo.cs
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.sourcelink.json
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.dll
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\refint\exercicio.dll
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.pdb
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\exercicio.genruntimeconfig.cache
+C:\Work\Workspace\Repositório\Exercicios\01-Exercicio\exercicio\obj\Debug\net9.0\ref\exercicio.dll

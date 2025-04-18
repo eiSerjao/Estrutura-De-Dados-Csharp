@@ -1,0 +1,5 @@
+C:\Work\Workspace\Repositório\02 - Expressões\02 - DeclaraçãoDeVariaveis\obj\Debug\net9.0\DeclaraçãoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Repositório\02 - Expressões\02 - DeclaraçãoDeVariaveis\obj\Debug\net9.0\DeclaraçãoDeVariaveis.AssemblyInfoInputs.cache
+C:\Work\Workspace\Repositório\02 - Expressões\02 - DeclaraçãoDeVariaveis\obj\Debug\net9.0\DeclaraçãoDeVariaveis.AssemblyInfo.cs
+C:\Work\Workspace\Repositório\02 - Expressões\02 - DeclaraçãoDeVariaveis\obj\Debug\net9.0\DeclaraçãoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Repositório\02 - Expressões\02 - DeclaraçãoDeVariaveis\obj\Debug\net9.0\DeclaraçãoDeVariaveis.sourcelink.json

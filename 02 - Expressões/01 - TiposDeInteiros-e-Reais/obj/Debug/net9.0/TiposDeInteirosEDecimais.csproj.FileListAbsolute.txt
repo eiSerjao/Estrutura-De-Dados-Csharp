@@ -13,3 +13,18 @@ C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj
 C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteirosEDecimais.pdb
 C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\TiposDeInteirosEDecimais.genruntimeconfig.cache
 C:\Work\Workspace\Estrutura-De-Dados-Csharp\02 - Expressões\TiposDeInteiros\obj\Debug\net9.0\ref\TiposDeInteirosEDecimais.dll
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\bin\Debug\net9.0\TiposDeInteirosEDecimais.exe
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\bin\Debug\net9.0\TiposDeInteirosEDecimais.deps.json
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\bin\Debug\net9.0\TiposDeInteirosEDecimais.runtimeconfig.json
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\bin\Debug\net9.0\TiposDeInteirosEDecimais.dll
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\bin\Debug\net9.0\TiposDeInteirosEDecimais.pdb
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.AssemblyInfoInputs.cache
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.AssemblyInfo.cs
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.sourcelink.json
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.dll
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\refint\TiposDeInteirosEDecimais.dll
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.pdb
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\TiposDeInteirosEDecimais.genruntimeconfig.cache
+C:\Work\Workspace\Repositório\02 - Expressões\01 - TiposDeInteiros-e-Reais\obj\Debug\net9.0\ref\TiposDeInteirosEDecimais.dll

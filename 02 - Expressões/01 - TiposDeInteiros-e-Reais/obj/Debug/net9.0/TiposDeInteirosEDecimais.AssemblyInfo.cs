@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiposDeInteirosEDecimais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815d83dd1591a7908d39dc4c05ed9e0ce76193ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf02f77dc01891d0098a499c9502d8b622819bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiposDeInteirosEDecimais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiposDeInteirosEDecimais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

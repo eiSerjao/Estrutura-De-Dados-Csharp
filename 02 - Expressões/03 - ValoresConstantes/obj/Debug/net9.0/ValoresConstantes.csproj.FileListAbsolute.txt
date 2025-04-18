@@ -1,0 +1,5 @@
+C:\Work\Workspace\Repositório\02 - Expressões\03 - ValoresConstantes\obj\Debug\net9.0\ValoresConstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Workspace\Repositório\02 - Expressões\03 - ValoresConstantes\obj\Debug\net9.0\ValoresConstantes.AssemblyInfoInputs.cache
+C:\Work\Workspace\Repositório\02 - Expressões\03 - ValoresConstantes\obj\Debug\net9.0\ValoresConstantes.AssemblyInfo.cs
+C:\Work\Workspace\Repositório\02 - Expressões\03 - ValoresConstantes\obj\Debug\net9.0\ValoresConstantes.csproj.CoreCompileInputs.cache
+C:\Work\Workspace\Repositório\02 - Expressões\03 - ValoresConstantes\obj\Debug\net9.0\ValoresConstantes.sourcelink.json
