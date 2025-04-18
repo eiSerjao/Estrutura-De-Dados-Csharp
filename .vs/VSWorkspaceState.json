@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02 - Expressões",
+    "\\02 - Expressões\\01 - TiposDeInteiros-e-Reais",
+    "\\Exercicios",
+    "\\Exercicios\\Alura",
+    "\\Exercicios\\Alura\\Dicionarios",
+    "\\Exercicios\\Alura\\Dicionarios\\01-Exercicio",
+    "\\Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio",
+    "\\Exercicios\\Alura\\Dicionarios\\02-Exercicio"
   ],
-  "SelectedNode": "\\C:\\Users\\conta\\Source\\Repos\\Estrutura-De-Dados-Csharp",
+  "SelectedNode": "\\Exercicios\\Alura\\Dicionarios\\02-Exercicio\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
