@@ -35,3 +35,5 @@ foreach (var aluno in alunos)
     double media = notas.Average();
     Console.WriteLine($"Nome: {nome}, Notas: {string.Join(", ", notas)}, Média: {media:F2}");
 }
+
+Console.ReadKey();
