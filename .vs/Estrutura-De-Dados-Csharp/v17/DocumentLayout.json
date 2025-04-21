@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\04-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios\\Alura\\Dicionarios\\04-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\04-Exercicio\\04-Exercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios\\Alura\\Dicionarios\\04-Exercicio\\04-Exercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\02-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\02-Exercicio\\02-Exercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios\\Alura\\Dicionarios\\02-Exercicio\\02-Exercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\03-Exercicio\\03-Exercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -49,11 +57,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\Workspace\\Reposit\u00F3rio\\Exercicios\\01-Exercicio\\exercicio\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Work\\Workspace\\Reposit\u00F3rio\\Exercicios\\01-Exercicio\\exercicio\\Program.cs",
@@ -73,20 +81,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04-Exercicio.csproj",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\04-Exercicio\\04-Exercicio.csproj",
+              "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\04-Exercicio\\04-Exercicio.csproj",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\04-Exercicio\\04-Exercicio.csproj",
+              "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\04-Exercicio\\04-Exercicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T14:36:51.72Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\04-Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\04-Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\04-Exercicio\\Program.cs",
+              "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\04-Exercicio\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:47:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs",
               "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs",
               "ToolTip": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs",
               "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\03-Exercicio\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCoAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T12:13:21.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T12:13:21.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "03-Exercicio.csproj",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\03-Exercicio\\03-Exercicio.csproj",
               "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\03-Exercicio\\03-Exercicio.csproj",
@@ -94,12 +126,11 @@
               "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\03-Exercicio\\03-Exercicio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-21T12:13:19.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T12:13:19.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "02-Exercicio.csproj",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\02-Exercicio\\02-Exercicio.csproj",
               "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\02-Exercicio\\02-Exercicio.csproj",
@@ -107,25 +138,23 @@
               "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\02-Exercicio\\02-Exercicio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T18:42:44.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T18:42:44.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\02-Exercicio\\Program.cs",
               "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\02-Exercicio\\Program.cs",
               "ToolTip": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\02-Exercicio\\Program.cs",
               "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\02-Exercicio\\Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T18:42:05.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T18:42:05.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "exercicio.csproj",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\exercicio.csproj",
               "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\exercicio.csproj",
@@ -137,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\Program.cs",
               "RelativeDocumentMoniker": "Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\Program.cs",
@@ -145,12 +174,11 @@
               "RelativeToolTip": "Exercicios\\Alura\\Dicionarios\\01-Exercicio\\exercicio\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T18:05:03.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T18:05:03.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\02 - Express\u00F5es\\01 - TiposDeInteiros-e-Reais\\Program.cs",
               "RelativeDocumentMoniker": "02 - Express\u00F5es\\01 - TiposDeInteiros-e-Reais\\Program.cs",
@@ -162,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\02 - Express\u00F5es\\02 - Declara\u00E7\u00E3oDeVariaveis\\Program.cs",
               "RelativeDocumentMoniker": "02 - Express\u00F5es\\02 - Declara\u00E7\u00E3oDeVariaveis\\Program.cs",
@@ -174,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Estrutura-De-Dados-Csharp\\02 - Express\u00F5es\\03 - ValoresConstantes\\Program.cs",
               "RelativeDocumentMoniker": "02 - Express\u00F5es\\03 - ValoresConstantes\\Program.cs",
