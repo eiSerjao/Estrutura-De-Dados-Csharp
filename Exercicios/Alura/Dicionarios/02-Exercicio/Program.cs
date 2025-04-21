@@ -13,12 +13,15 @@ Dictionary<string, int> estoque = new Dictionary<string, int>()
 };
 
 
-// Irei criar um método para toda final do progama, o usuário escolher voltar ao menu ou sair do programa
+// Método para toda final do progama, o usuário escolher voltar ao menu ou sair do programa
 void VoltarMenu()
 {
     Console.WriteLine("==========================");
+
     Console.WriteLine("Deseja voltar ao menu? (s/n)");
     string resposta = Console.ReadLine()!;
+
+    // Verifica se a resposta é "s" ou "n" junta com a função ToLower() para não ter erro de digitação
     if (resposta.ToLower() == "s")
     {
         Menu();
@@ -32,6 +35,7 @@ void VoltarMenu()
     }
 }
 
+// Método para adicionar produtos ao dicionário
 void AdicionarProduto()
 {
     Console.Write("Digite o nome do produto: ");
@@ -40,34 +44,42 @@ void AdicionarProduto()
     Console.Write("Digite a quantidade do produto: ");
     int quantidadeProduto = int.Parse(Console.ReadLine()!);
 
+    // Adiciona o produto e a quantidade ao dicionário
     estoque.Add(nomeProduto, quantidadeProduto);
 
+    Console.WriteLine($"Produto {nomeProduto} adicionado com sucesso!");
+
+    // Adicionar um tempo antes de limpar a tela
     Thread.Sleep(2000);
     Console.Clear();
+
     VoltarMenu();
-    // Adicionar um tempo antes de limpar a tela
-    
 }
 
-
+// Método para exibir os produtos do dicionário
 void ExibirProdutos()
 {
-    // Verifica se o dicionário está vazio
+    // Verifica se o dicionário está vazio utilizando a propriedade Count para retornar o número de elementos
     if (estoque.Count == 0)
     {
         Console.WriteLine("Nenhum produto cadastrado.");
         VoltarMenu();
         return;
     }
+
+    Console.WriteLine("Produtos em estoque:");
+    // Percorre o dicionário e exibe os produtos e suas quantidades
     foreach (var item in estoque)
     {
         Console.WriteLine($"Produto: {item.Key}, Quantidade: {item.Value}");
     }
+
     Thread.Sleep(2000);
     VoltarMenu();
     
 }
 
+// Método para consultar um produto no dicionário
 void ConsultarProduto()
 {
     Console.Write("Digite o nome do produto que deseja contular:");
@@ -83,12 +95,14 @@ void ConsultarProduto()
     {
         Console.WriteLine("Produto não encontrado.");
     }
+
     Thread.Sleep(2000);
     Console.Clear();
     VoltarMenu();
     
 }
 
+// Método para exibir o menu
 void Menu()
 {
     Console.Clear();
