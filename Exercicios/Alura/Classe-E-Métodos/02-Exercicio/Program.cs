@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Carro
+public class Carro 
 {
     public string Nome { get; set; }
     public string Marca { get; set; }
@@ -92,5 +92,7 @@ class Program
         // FordKa.Buzinar();
 
         // Console.ReadKey();
+
     }
+
 }
